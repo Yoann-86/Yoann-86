@@ -1,11 +1,44 @@
-# About Me
+# 👋 Hi there, I'm Yoann 
 
-- 👋 Hi there, I’m Yoann and I'm actually learning code with [O'clock school](https://oclock.io/)
-- 👀 I’m interested in Formula One, poker and riding my bike.
-- 🌱 I’m currently learning Typescript and Javascript with a lot of frameworks and utils like React, Node, Express, and mores.
-- 💞️ I’m looking for a 6 month internship in web development.
-- 📫 You can reach me on yoann.ar.pro@gmail.com
-- 💬 I'm 37 years old and I like solving problems, learning new things and above all I like challenges, that's why I chose to become a web developer.
+## 🚀 About Me
+I’m 37 years old and I'm actually learning code with [O'clock school](https://oclock.io/) to become Full stack web application developer. And I'm actively seeking a 6 month internship starting December 2024.
+
+## 🛠 Skills
+- TypeScript / JavaScript
+- Node.js
+- React
+- Next.js
+- Express.js
+- Self-Learning: Angular, NestJS
+
+## 📚 Current Focus
+- Full Stack Web Development
+- DevOps and Continuous Integration (upcoming in my course)
+
+## 🏆 Certifications
+- Opquast Web Quality Certification (Score: 816/1000)
+
+## 💡 What I Bring to the Table
+- Strong problem-solving skills
+- Passion for learning new technologies
+- Valuable experience from my previous career in sales
+- Adaptability and quick learning abilities
+- I'm ready for challenges
+
+## 🔍 Looking For
+- A 6-month internship opportunity starting December 2024 where I can apply my skills, learn from experienced developers, and contribute to meaningful projects.
+
+## 📫 How to Reach Me
+- You can send me an email on yoann.ar.pro@gmail.com
+
+# 🌱 Always Learning
+- I'm constantly exploring new technologies and best practices in web development.
+
+## 👀 My hobbies 
+- 🏎️ Formula One
+- ♠️ poker
+- 🚴‍♂️ riding my bike
+- 👨‍💻 coding apps
 
 
 <!---
