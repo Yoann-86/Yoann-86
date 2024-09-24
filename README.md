@@ -4,16 +4,19 @@
 I’m 37 years old and I'm actually learning code with [O'clock school](https://oclock.io/) to become Full stack web application developer. And I'm actively seeking a 6 month internship starting December 2024.
 
 ## 🛠 Skills
-- TypeScript / JavaScript
-- Node.js
+- TypeScript
 - React
 - Next.js
+- Node.js
 - Express.js
-- Self-Learning: Angular, NestJS
+- PostgreSQL
+- MongoDB
+- Docker
+- Github pages
 
 ## 📚 Current Focus
 - Full Stack Web Development
-- DevOps and Continuous Integration (upcoming in my course)
+- DevOps and Continuous Integration
 
 ## 🏆 Certifications
 - Opquast Web Quality Certification (Score: 816/1000)
