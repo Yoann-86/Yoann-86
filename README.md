@@ -2,7 +2,7 @@
 
 A full-stack junior developer.
 
-<img src="https://wakatime.com/badge/user/b40b2ffb-c5c2-409b-916a-36b209f1fef1.svg" />
+<img src="https://wakatime.com/badge/user/b40b2ffb-c5c2-409b-916a-36b209f1fef1.svg?style=plastic&cache-control=no-cache" />
 
 ## 🚀 About Me
 
