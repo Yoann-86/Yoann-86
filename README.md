@@ -13,8 +13,20 @@ I have a passion for coding and what can be accomplished with it. I enjoy discov
 I am someone who understands the challenges associated with such a career change and is deeply committed to everything I undertake. This is why I am fully dedicated and do not hesitate to go above and beyond expectations in my assignments or explore new areas.
 
 ## 🛠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,typescript,javascript,react,nextjs,nodejs,expressjs,vite,graphql,postgresql,mongodb,docker,githubactions,jest,vitest,git,vscode&perline=6)](https://skillicons.dev)
+### Currently I'm working with
+- OS :<br/>
+  ![systems](https://skillicons.dev/icons?i=apple,ubuntu&perline=6)<br/>
+- Languages :<br/>
+  ![systems](https://skillicons.dev/icons?i=typescript,javascript,sass&perline=6)<br/>
+- Frameworks & libraries :<br/>
+  ![systems](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,graphql&perline=6)<br/>
+- Databases :<br/>
+  ![systems](https://skillicons.dev/icons?i=postgresql,sequelize,mongodb,redis&perline=6)<br/>
+- Tools & technologies :<br/>
+  ![systems](https://skillicons.dev/icons?i=docker,redux,githubactions,vite,jest,vitest&perline=6)<br/>
+  
+### I would like to discover one of these in the future
+![systems](https://skillicons.dev/icons?i=rust,golang,python)<br/>
 
 ## 📚 Current Focus
 
@@ -25,17 +37,14 @@ I am someone who understands the challenges associated with such a career change
   [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 
   ### Frontend:
-
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" />
 
-    <!-- [![Frontend](https://skillicons.dev/icons?i=typescript,vite,react,redux,githubactions)](https://skillicons.dev) -->
 
   ### Backend:
-
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
