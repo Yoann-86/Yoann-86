@@ -13,44 +13,36 @@ I am aware of the challenges associated with such a career change and I am deepl
 ## 🛠 Tech Stack
 
 - Operating systems :<br>
-
-    <img src=" https://img.shields.io/badge/macOs-grey?style=for-the-badge&logo=apple"/>
-    <img src=" https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/macOs-grey?style=plastic&logo=apple"/>
+  <img src="https://img.shields.io/badge/ubuntu-orange?style=plastic&logo=ubuntu"/>
 
 - Languages :<br>
-
-  <img src=" https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src=" https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330"/>
+  <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-f0db4f?style=plastic&logo=javascript&logoColor=323330"/>
 
 - Front-end :<br>
-
-  <img src=" https://img.shields.io/badge/react-222222?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/vite-white?style=for-the-badge&logo=vite"/>
-  <img src=" https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass"/>
-  <img src=" https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3"/>
-  <img src=" https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/react-222222?style=plastic&logo=react"/>
+  <img src="https://img.shields.io/badge/next-black?style=plastic&logo=next.js"/>
+  <img src="https://img.shields.io/badge/vite-white?style=plastic&logo=vite"/>
+  <img src="https://img.shields.io/badge/sass-white?style=plastic&logo=sass"/>
+  <img src="https://img.shields.io/badge/css-blue?style=plastic&logo=css3"/>
+  <img src="https://img.shields.io/badge/html-white?style=plastic&logo=html5"/>
   <br>
 
 - Back-end :<br>
-
-  <br>
-  <img src="https://img.shields.io/badge/node-333333?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/express-333333?style=for-the-badge&logo=express"/>
-  <img src=" https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql"/>
+  <img src="https://img.shields.io/badge/node-333333?style=plastic&logo=node.js"/>
+  <img src="https://img.shields.io/badge/express-333333?style=plastic&logo=express"/>
+  <img src="https://img.shields.io/badge/graphql-e10098?style=plastic&logo=graphql"/>
 
 - Databases :<br>
-  <img src=" https://img.shields.io/badge/postresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=MongoDB&logoColor=white" />
 
 - DevOps:<br>
-
-  <img src="https://img.shields.io/badge/docker-E5F2FC?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Github actions-black?style=for-the-badge&logo=github-actions"/>
-  <img src="https://img.shields.io/badge/vitest-white?style=for-the-badge&logo=vitest"/>
-  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest"/>
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=vite,git,vscode&perline=6)](https://skillicons.dev) -->
+  <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>
+  <img src="https://img.shields.io/badge/Github actions-black?style=plastic&logo=github-actions"/>
+  <img src="https://img.shields.io/badge/vitest-white?style=plastic&logo=vitest"/>
+  <img src="https://img.shields.io/badge/jest-C21325?style=plastic&logo=jest"/>
 
 ## 📚 Currently Focus
 
@@ -60,17 +52,17 @@ I am aware of the challenges associated with such a career change and I am deepl
   Starting : 2024.10.15<br>
   Estimated MVP deployment : 2025.01
 
+  <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-222222?style=plastic&logo=react"/>
+  <img src="https://img.shields.io/badge/express-333333?style=plastic&logo=express"/>
+  <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>
+  <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/graphql-e10098?style=plastic&logo=graphql"/>
+
   EasyBiz is a web-based application that simplifies invoicing, client management, and quotations for small to medium-sized businesses. It allows users to create, send, and track invoices, manage customer data, and convert quotations into invoices seamlessly. The app includes automatic tax calculations and offers a role-based access control system with permissions, ensuring data security and task management.<br>
   Users can generate reports, track payments, and receive notifications for unpaid invoices or tax deadlines.
   <br>
   Built with Node.js and Express, with a frontend in React, the app ensures compliance with legal accounting standards.
-
-  <img src=" https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src=" https://img.shields.io/badge/react-222222?style=for-the-badge&logo=react"/>
-  <img src=" https://img.shields.io/badge/express-333333?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/docker-E5F2FC?style=for-the-badge&logo=docker"/>
-  <img src=" https://img.shields.io/badge/postresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src=" https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql"/>
 
 ## 🏆 Certifications
 
@@ -91,12 +83,10 @@ I am aware of the challenges associated with such a career change and I am deepl
 ## 📫 How to Reach Me
 
 - You can send me an email on :
-
   yoann.ar.pro@gmail.com
 
 - Otherwise, you can also visit my linkedIn page :
-
-  [<img src=" https://img.shields.io/badge/Yoann Auroy-0077b5?logo=linkedin"/>](https://www.linkedin.com/in/yoann-auroy/)
+  [<img src="https://img.shields.io/badge/Yoann Auroy-0077b5?logo=linkedin"/>](https://www.linkedin.com/in/yoann-auroy/)
 
 ## 🌱 Always Learning
 
