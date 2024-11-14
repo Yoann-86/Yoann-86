@@ -54,10 +54,10 @@ I am aware of the challenges associated with such a career change and I am deepl
 
   <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-222222?style=plastic&logo=react"/>
-  <img src="https://img.shields.io/badge/express-333333?style=plastic&logo=express"/>
+  <img src="https://img.shields.io/badge/node-333333?style=plastic&logo=node.js"/>
   <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>
+  <img src="https://img.shields.io/badge/Github actions-black?style=plastic&logo=github-actions"/>
   <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/graphql-e10098?style=plastic&logo=graphql"/>
 
   EasyBiz is a web-based application that simplifies invoicing, client management, and quotations for small to medium-sized businesses. It allows users to create, send, and track invoices, manage customer data, and convert quotations into invoices seamlessly. The app includes automatic tax calculations and offers a role-based access control system with permissions, ensuring data security and task management.<br>
   Users can generate reports, track payments, and receive notifications for unpaid invoices or tax deadlines.
@@ -66,6 +66,7 @@ I am aware of the challenges associated with such a career change and I am deepl
 
 ## 🏆 Certifications
 
+- TOEIC listening & reading : 820 points -> B2
 - Opquast Web Quality Certification: Advanced
 
 ## 💡 What I Bring to the Table
