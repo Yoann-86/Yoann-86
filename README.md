@@ -4,7 +4,7 @@ A full-stack junior developer.
 
 ## 🚀 About Me
 
-I’m 37 years old and currently enrolled in the CDA program at [O'clock school](https://oclock.io/formations/concepteur-developpeur-d-applications), which lasts 1050 hours of theory, followed by a 6-month internship to become Full-stack web developer. During this program, I am learning to develop structured and secure applications using JavaScript and its surrounding ecosystem.
+I’m 37 years old and currently enrolled in the CDA program at [O'clock school](https://oclock.io/formations/concepteur-developpeur-d-applications), which lasts 1050 hours of theory, followed by a 6-month internship @matera-tech to become Full-stack web developer. During this program, I am learning to develop structured and secure applications using JavaScript and its surrounding ecosystem.
 <br>
 I have a passion for coding and what can be accomplished with it. I enjoy discovering new things and understanding how they work.
 <br>
@@ -46,8 +46,12 @@ I am aware of the challenges associated with such a career change and I am deepl
 
 ## 📚 Currently Focus
 
-- O'Clock vocational trainig
-- End of study project : EasyBiz (🏗️ in design)
+- Matera 6-month internship as a software engineer
+
+  My role at Matera:<br>
+  Currently, I'm focused on migrating components to our new design system, implementing TypeScript and integrating the latest proxy service for backend API queries. I'm thrilled to be learning every day within this great team while developing strong frontend development skills.
+
+- End of study project : EasyBiz (🏗️ in progress)
 
   Starting : 2024.10.15<br>
   Estimated MVP deployment : 2025.01
@@ -59,14 +63,12 @@ I am aware of the challenges associated with such a career change and I am deepl
   <img src="https://img.shields.io/badge/Github actions-black?style=plastic&logo=github-actions"/>
   <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/>
 
-  EasyBiz is a web-based application that simplifies invoicing, client management, and quotations for small to medium-sized businesses. It allows users to create, send, and track invoices, manage customer data, and convert quotations into invoices seamlessly. The app includes automatic tax calculations and offers a role-based access control system with permissions, ensuring data security and task management.<br>
-  Users can generate reports, track payments, and receive notifications for unpaid invoices or tax deadlines.
-  <br>
+  EasyBiz is a web-based application that simplifies invoicing, client management, and quotations for small to medium-sized businesses. It allows users to create, send, and track invoices, manage customer data, and convert quotations into invoices seamlessly. <br>
   Built with Node.js and Express, with a frontend in React, the app ensures compliance with legal accounting standards.
 
 ## 🏆 Certifications
 
-- TOEIC listening & reading : 820 points -> B2
+- TOEIC listening & reading : 820 points / B2
 - Opquast Web Quality Certification: Advanced
 
 ## 💡 What I Bring to the Table
@@ -79,7 +81,7 @@ I am aware of the challenges associated with such a career change and I am deepl
 
 ## 🔍 Looking For
 
-- I'm looking for my first job as a full-stack developer, I'm open to any type of proposal, such as an internship or a full-time contract.
+- I'm looking for my first job as a full-stack developer, I'm open to any type of proposal.
 
 ## 📫 How to Reach Me
 
