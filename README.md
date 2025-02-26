@@ -1,10 +1,16 @@
 # 👋 Hi there, I'm Yoann
 
-A full-stack junior developer.
+I'm software engineer since this year, I obtained a Level 6 professional qualification as an Application Developer-Designer, equivalent to a 4-years bachelor's degree.
+Currently I'm an Intern at **Matera** until July 2025.
+
+  <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-f0db4f?style=plastic&logo=javascript&logoColor=323330"/>
+  <img src="https://img.shields.io/badge/css-blue?style=plastic&logo=css3"/>
+  <img src="https://img.shields.io/badge/html-white?style=plastic&logo=html5"/>
 
 ## 🚀 About Me
 
-I’m 37 years old and currently enrolled in the CDA program at [O'clock school](https://oclock.io/formations/concepteur-developpeur-d-applications), which lasts 1050 hours of theory, followed by a 6-month internship @matera-tech to become Full-stack web developer. During this program, I am learning to develop structured and secure applications using JavaScript and its surrounding ecosystem.
+I’m 38 years old and currently enrolled in a 6-month internship **@matera-tech** as a front-end developer. I have more than 10 years working experience in both domains, and I do my better everyday to become a good developer.
 <br>
 I have a passion for coding and what can be accomplished with it. I enjoy discovering new things and understanding how they work.
 <br>
@@ -12,84 +18,74 @@ I am aware of the challenges associated with such a career change and I am deepl
 
 ## 🛠 Tech Stack
 
-- Operating systems :<br>
-  <img src="https://img.shields.io/badge/macOs-grey?style=plastic&logo=apple"/>
-  <img src="https://img.shields.io/badge/ubuntu-orange?style=plastic&logo=ubuntu"/>
-
-- Languages :<br>
-  <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-f0db4f?style=plastic&logo=javascript&logoColor=323330"/>
-
 - Front-end :<br>
   <img src="https://img.shields.io/badge/react-222222?style=plastic&logo=react"/>
   <img src="https://img.shields.io/badge/next-black?style=plastic&logo=next.js"/>
   <img src="https://img.shields.io/badge/vite-white?style=plastic&logo=vite"/>
-  <img src="https://img.shields.io/badge/sass-white?style=plastic&logo=sass"/>
-  <img src="https://img.shields.io/badge/css-blue?style=plastic&logo=css3"/>
-  <img src="https://img.shields.io/badge/html-white?style=plastic&logo=html5"/>
-  <br>
 
 - Back-end :<br>
   <img src="https://img.shields.io/badge/node-333333?style=plastic&logo=node.js"/>
   <img src="https://img.shields.io/badge/express-333333?style=plastic&logo=express"/>
-  <img src="https://img.shields.io/badge/graphql-e10098?style=plastic&logo=graphql"/>
 
 - Databases :<br>
   <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=mongodb&logoColor=white" />
 
 - DevOps:<br>
   <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>
   <img src="https://img.shields.io/badge/Github actions-black?style=plastic&logo=github-actions"/>
-  <img src="https://img.shields.io/badge/vitest-white?style=plastic&logo=vitest"/>
-  <img src="https://img.shields.io/badge/jest-C21325?style=plastic&logo=jest"/>
 
 ## 📚 Currently Focus
 
-- Matera 6-month internship as a software engineer
+- **Matera 6-month internship as a software engineer**
 
-  My role at Matera:<br>
-  Currently, I'm focused on migrating components to our new design system, implementing TypeScript and integrating the latest proxy service for backend API queries. I'm thrilled to be learning every day within this great team while developing strong frontend development skills.
+  **My role at Matera:**<br>
+  I'm focused on migrating components to our new design system, implementing TypeScript and integrating the latest proxy service for backend API queries. I'm thrilled to be learning every day within this great team while developing strong frontend development skills.
+  I can also explore the Ruby language with the Rails framework, which I find amazing. I intend to enhance my backend skills with this framework.
 
-- End of study project : EasyBiz (🏗️ in progress)
+  **Tech stack:**<br>
+  <img src="https://img.shields.io/badge/-007acc?style=plastic&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-222222?style=plastic&logo=react"/>
+  <img src="https://img.shields.io/badge/-D91404?style=plastic&logo=ruby"/>
+  <img src="https://img.shields.io/badge/-CC0000?style=plastic&logo=rubyonrails"/>
 
-  Starting : 2024.10.15<br>
-  Estimated MVP deployment : 2025.01
+- **Personnal project : EasyBiz (🏗️ in progress)**
 
-  <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-222222?style=plastic&logo=react"/>
-  <img src="https://img.shields.io/badge/node-333333?style=plastic&logo=node.js"/>
-  <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>
-  <img src="https://img.shields.io/badge/Github actions-black?style=plastic&logo=github-actions"/>
-  <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/>
-
+  **The project:**<br>
   EasyBiz is a web-based application that simplifies invoicing, client management, and quotations for small to medium-sized businesses. It allows users to create, send, and track invoices, manage customer data, and convert quotations into invoices seamlessly. <br>
   Built with Node.js and Express, with a frontend in React, the app ensures compliance with legal accounting standards.
 
+  **Tech stack:**<br>
+  <img src="https://img.shields.io/badge/-007acc?style=plastic&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-222222?style=plastic&logo=react"/>
+  <img src="https://img.shields.io/badge/-333333?style=plastic&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-E5F2FC?style=plastic&logo=docker"/>
+  <img src="https://img.shields.io/badge/-black?style=plastic&logo=github-actions"/>
+  <img src="https://img.shields.io/badge/-336791?style=plastic&logo=postgresql&logoColor=white"/>
+
 ## 🏆 Certifications
 
-- TOEIC listening & reading : 820 points / B2
+- 4-years bachelor's degree equivalent, Qualified in: Application Developer-Designer
+- TOEIC listening & reading: 820 points / B2
 - Opquast Web Quality Certification: Advanced
 
 ## 💡 What I Bring to the Table
 
-- I'm ready for challenges
-- Adaptability and quick learning abilities
-- Strong problem-solving skills
+- Ready for challenges
+- Strong adaptability and quick learning abilities
 - Passion for learning new technologies
 - Valuable experience from my previous career in sales
 
 ## 🔍 Looking For
 
-- I'm looking for my first job as a full-stack developer, I'm open to any type of proposal.
+- I am looking for a job in the tech industry. I wish to join a company that develops and maintains its own business solutions.
 
 ## 📫 How to Reach Me
 
 - You can send me an email on :
   yoann.ar.pro@gmail.com
 
-- Otherwise, you can also visit my linkedIn page :
-  [<img src="https://img.shields.io/badge/Yoann Auroy-0077b5?logo=linkedin"/>](https://www.linkedin.com/in/yoann-auroy/)
+- Otherwise, you can also visit my
+  [linkedIn page](https://www.linkedin.com/in/yoann-auroy/)
 
 ## 🌱 Always Learning
 
@@ -104,7 +100,7 @@ I am aware of the challenges associated with such a career change and I am deepl
 ## 👀 My hobbies
 
 - 🏎️ Formula One
-- ♠️ poker
-- 🚴‍♂️ riding my bike
+- ♠️ Poker
+- 🚴‍♂️ Riding my bike
 - 🏔️ Hiking
 - 👨‍💻 coding apps
