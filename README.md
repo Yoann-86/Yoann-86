@@ -1,20 +1,19 @@
 # 👋 Hi there, I'm Yoann
 
-I'm software engineer since this year, I obtained a Level 6 professional qualification as an Application Developer-Designer, equivalent to a 4-years bachelor's degree.
-Currently I'm an Intern at **Matera** until July 2025.
+I'm a software engineer, I work mainly with Typescript in frontend but I'm also able to do backend.
 
-  <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-f0db4f?style=plastic&logo=javascript&logoColor=323330"/>
   <img src="https://img.shields.io/badge/css-blue?style=plastic&logo=css3"/>
-  <img src="https://img.shields.io/badge/html-white?style=plastic&logo=html5"/>
+  <img src="https://img.shields.io/badge/html-white?style=plastic&logo=html5"/> -->
 
 ## 🚀 About Me
 
-I’m 38 years old and currently enrolled in a 6-month internship **@matera-tech** as a front-end developer. I have more than 10 years working experience in both domains, and I do my better everyday to become a good developer.
+I’m 38 years old and currently enrolled at **@matera-tech** as a front-end developer. I have more than 10 years working experience in both domains, and I do my better everyday to be a good developer.
 <br>
 I have a passion for coding and what can be accomplished with it. I enjoy discovering new things and understanding how they work.
 <br>
-I am aware of the challenges associated with such a career change and I am deeply committed to everything I undertake. This is why I am fully dedicated and do not hesitate to go above and beyond expectations in my assignments or explore new areas.
+I am deeply committed to everything I undertake
 
 ## 🛠 Tech Stack
 
@@ -29,7 +28,7 @@ I am aware of the challenges associated with such a career change and I am deepl
 
 - Databases :<br>
   <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=mongodb&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=mongodb&logoColor=white" /> -->
 
 - DevOps:<br>
   <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>
@@ -37,22 +36,25 @@ I am aware of the challenges associated with such a career change and I am deepl
 
 ## 📚 Currently Focus
 
-- **Matera 6-month internship as a software engineer**
+- **My role @Matera:**
 
-  **My role at Matera:**<br>
-  I'm focused on migrating components to our new design system, implementing TypeScript and integrating the latest proxy service for backend API queries. I'm thrilled to be learning every day within this great team while developing strong frontend development skills.
-  I can also explore the Ruby language with the Rails framework, which I find amazing. I intend to enhance my backend skills with this framework.
+  Matera is a company that helps owners manage their co-ownership and rental investments since 2017.
+
+  Matera supports more than 10,000 co-ownerships in France and Germany. Matera also launched a rental management offering complement its services and provide a complete ecosystem for owners. The company now supports more than 2,000 rental properties.
+
+  My role at Matera focuses on the Pro offer. I'm currently working on the milestones feature, mainly on the frontend within a React monorepo, but also on the backend in a Ruby on rails monorepo structured using Domain-Driven Design.
 
   **Tech stack:**<br>
   <img src="https://img.shields.io/badge/-007acc?style=plastic&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-222222?style=plastic&logo=react"/>
   <img src="https://img.shields.io/badge/-D91404?style=plastic&logo=ruby"/>
   <img src="https://img.shields.io/badge/-CC0000?style=plastic&logo=rubyonrails"/>
 
-- **Personnal project : EasyBiz (🏗️ in progress)**
+- **Personnal project : EasyBiz (🏗️ rebuilt in-progress)**
 
   **The project:**<br>
-  EasyBiz is a web-based application that simplifies invoicing, client management, and quotations for small to medium-sized businesses. It allows users to create, send, and track invoices, manage customer data, and convert quotations into invoices seamlessly. <br>
-  Built with Node.js and Express, with a frontend in React, the app ensures compliance with legal accounting standards.
+  EasyBiz is a web application that simplifies invoicing, client management, and quotation handling for small businesses. It allows users to create, send, and track invoices, manage customer data, and seamlessly convert quotations into invoices. <br>
+  Initially built with Node.js and Express on the backend, I chose to rebuilt it using AdonisJS to explore this full-featured framework. The frontend is developed with React, and the application ensures compliance with legal accounting standards.
+  You'll soon be able to follow the progress on my public repository.
 
   **Tech stack:**<br>
   <img src="https://img.shields.io/badge/-007acc?style=plastic&logo=typescript&logoColor=white"/>
@@ -64,20 +66,19 @@ I am aware of the challenges associated with such a career change and I am deepl
 
 ## 🏆 Certifications
 
-- 4-years bachelor's degree equivalent, Qualified in: Application Developer-Designer
-- TOEIC listening & reading: 820 points / B2
-- Opquast Web Quality Certification: Advanced
+- Bachelor's degree equivalent: Qualified
+- TOEIC listening & reading: 820 points (B2 level)
+- Opquast Web Quality Certification: Advanced level
 
 ## 💡 What I Bring to the Table
 
-- Ready for challenges
-- Strong adaptability and quick learning abilities
-- Passion for learning new technologies
-- Valuable experience from my previous career in sales
+- Eagerness to take on new challenges
+- Strong adaptability and fast learning capabilities
+- Valuable interpersonal skills and business acumen from a previous career in sales
 
 ## 🔍 Looking For
 
-- I am looking for a job in the tech industry. I wish to join a company that develops and maintains its own business solutions.
+- I am seeking a position in the tech industry, ideally within a company that develops and maintains its own business solutions.
 
 ## 📫 How to Reach Me
 
@@ -89,18 +90,19 @@ I am aware of the challenges associated with such a career change and I am deepl
 
 ## 🌱 Always Learning
 
-- I'm constantly exploring new technologies and best practices in web development.
+- I’m constantly exploring new technologies and best practices in modern web development.
 
-## Languages
+## 🌍 Languages
 
-- 🇬🇧 : Reading and writing, Level B1
-- 🇪🇸 : Reading and speaking, Level B2
-- 🇫🇷 : Reading, writing, speaking, Native
+- 🇬🇧 : Reading and writing, (B1 level)
+- 🇪🇸 : Reading and speaking, (B2 level)
+- 🇫🇷 : Reading, writing, speaking, (native)
 
 ## 👀 My hobbies
 
-- 🏎️ Formula One
-- ♠️ Poker
+- 🏎️ Formula One & WEC
 - 🚴‍♂️ Riding my bike
 - 🏔️ Hiking
+- 🥩 Bbq's with friends & family
+- ♠️ Poker
 - 👨‍💻 coding apps
