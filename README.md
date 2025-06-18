@@ -40,10 +40,14 @@ I am deeply committed to everything I undertake
   <img src="https://img.shields.io/badge/-007acc?style=plastic&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-222222?style=plastic&logo=react"/>
   <img src="https://img.shields.io/badge/-D91404?style=plastic&logo=ruby"/>
   <img src="https://img.shields.io/badge/-CC0000?style=plastic&logo=rubyonrails"/>
+  <img src="https://img.shields.io/badge/-black?style=plastic&logo=github-actions"/>
+  <img src="https://img.shields.io/badge/-336791?style=plastic&logo=postgresql&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/-E5F2FC?style=plastic&logo=docker"/> -->
+  <br>
+  <br>
 
-- **Personnal project : EasyBiz (🏗️ rebuilt in-progress)**
+- **EasyBiz (🏗️ rebuilt in-progress)**
 
-  **The project:**<br>
   EasyBiz is a web application that simplifies invoicing, client management, and quotation handling for small businesses. It allows users to create, send, and track invoices, manage customer data, and seamlessly convert quotations into invoices. <br>
   Initially built with Node.js and Express on the backend, I chose to rebuilt it using AdonisJS to explore this full-featured framework. The frontend is developed with React, and the application ensures compliance with legal accounting standards.
   You'll soon be able to follow the progress on my public repository.
