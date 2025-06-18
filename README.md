@@ -17,22 +17,14 @@ I am deeply committed to everything I undertake
 
 ## 🛠 Tech Stack
 
-- Front-end :<br>
-  <img src="https://img.shields.io/badge/react-222222?style=plastic&logo=react"/>
-  <img src="https://img.shields.io/badge/next-black?style=plastic&logo=next.js"/>
-  <img src="https://img.shields.io/badge/vite-white?style=plastic&logo=vite"/>
+|           |                                                                                                          |                                                                                                  |                                                                              |
+| --------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Front-end | <img src="https://img.shields.io/badge/react-222222?style=plastic&logo=react"/>                          | <img src="https://img.shields.io/badge/next-black?style=plastic&logo=next.js"/>                  | <img src="https://img.shields.io/badge/vite-white?style=plastic&logo=vite"/> |
+| Back-end  | <img src="https://img.shields.io/badge/node-333333?style=plastic&logo=node.js"/>                         | <img src="https://img.shields.io/badge/express-333333?style=plastic&logo=express"/>              |                                                                              |
+| Databases | <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/> |                                                                                                  |
+| DevOps    | <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>                        | <img src="https://img.shields.io/badge/Github actions-black?style=plastic&logo=github-actions"/> |                                                                              |
 
-- Back-end :<br>
-  <img src="https://img.shields.io/badge/node-333333?style=plastic&logo=node.js"/>
-  <img src="https://img.shields.io/badge/express-333333?style=plastic&logo=express"/>
-
-- Databases :<br>
-  <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=mongodb&logoColor=white" /> -->
-
-- DevOps:<br>
-  <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>
-  <img src="https://img.shields.io/badge/Github actions-black?style=plastic&logo=github-actions"/>
 
 ## 📚 Currently Focus
 
