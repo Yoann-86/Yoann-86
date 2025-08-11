@@ -1,13 +1,17 @@
-# 👋 Hi there, I'm Yoann
+<header>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</header>
+<h1 align="center">Hi there 👋, I'm Yoann</h1>
 
-I'm a software engineer, I work mainly with Typescript in frontend but I'm also able to do backend.
+<h3 align="center">I'm a software engineer, I work mainly with Typescript in frontend but I'm also able to do backend.</h3>
 
-  <!-- <img src="https://img.shields.io/badge/typescript-007acc?style=plastic&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-f0db4f?style=plastic&logo=javascript&logoColor=323330"/>
-  <img src="https://img.shields.io/badge/css-blue?style=plastic&logo=css3"/>
-  <img src="https://img.shields.io/badge/html-white?style=plastic&logo=html5"/> -->
-
-## 🚀 About Me
+<h2 align="center">Connect with me:</h2>
+<div style="display: flex; flex-direction: column; gap: 10px justify-content: center; align-items: center">
+<a href="https://linkedin.com/in/yoann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="yoann" height="30" width="40" /></a>
+<p style="padding-top: 10px; font-weight: 700">OR</p>
+<a href="mailto:yoann.ar.pro@gmail.com" style="font-size: 1.5rem; font-weight: 700">✍️ yoann.ar.pro@gmail.com</a>
+</div>
+<h2 align="left">🚀 About Me</h2>
 
 I’m 38 years old and currently enrolled at **@matera-tech** as a front-end developer. I have more than 10 years working experience in both domains, and I do my better everyday to be a good developer.
 <br>
@@ -15,68 +19,70 @@ I have a passion for coding and what can be accomplished with it. I enjoy discov
 <br>
 I am deeply committed to everything I undertake
 
-## 🛠 Tech Stack
+<h2 align="left">🛠 Tech stack</h2>
+<div style="display: flex; flex-direction: column; gap: 20px">
+<div style="display: flex; flex-direction: column;">
+<p>Personnal stack</p>
+<div style="display: flex; gap: 20px; justify-content: start; padding-left: 50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" />  
+</div>
+</div>
 
-|           |                                                                                                          |                                                                                                  |                                                                              |
-| --------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| Front-end | <img src="https://img.shields.io/badge/react-222222?style=plastic&logo=react"/>                          | <img src="https://img.shields.io/badge/next-black?style=plastic&logo=next.js"/>                  | <img src="https://img.shields.io/badge/vite-white?style=plastic&logo=vite"/> |
-| Back-end  | <img src="https://img.shields.io/badge/node-333333?style=plastic&logo=node.js"/>                         | <img src="https://img.shields.io/badge/express-333333?style=plastic&logo=express"/>              |                                                                              |
-| Databases | <img src="https://img.shields.io/badge/postresql-336791?style=plastic&logo=postgresql&logoColor=white"/> |                                                                                                  |
-| DevOps    | <img src="https://img.shields.io/badge/docker-E5F2FC?style=plastic&logo=docker"/>                        | <img src="https://img.shields.io/badge/Github actions-black?style=plastic&logo=github-actions"/> |                                                                              |
+</div>
 
-  <!-- <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=mongodb&logoColor=white" /> -->
+<h2 align="left">📚 Currently Focus</h2>
 
-## 📚 Currently Focus
+<span style="font-weight: 700; font-size: 1.1rem">My role @Matera:</span>
 
-- **My role @Matera:**
+Matera is a company that helps owners manage their co-ownership and rental investments since 2017.
 
-  Matera is a company that helps owners manage their co-ownership and rental investments since 2017.
+Matera supports more than 10,000 co-ownerships in France and Germany. Matera also launched a rental management offering complement its services and provide a complete ecosystem for owners. The company now supports more than 2,000 rental properties.
 
-  Matera supports more than 10,000 co-ownerships in France and Germany. Matera also launched a rental management offering complement its services and provide a complete ecosystem for owners. The company now supports more than 2,000 rental properties.
+My role at Matera focuses on the Pro offer. I'm currently working on the milestones feature, mainly on the frontend within a React monorepo, but also on the backend in a Ruby on rails monorepo structured using Domain-Driven Design.
 
-  My role at Matera focuses on the Pro offer. I'm currently working on the milestones feature, mainly on the frontend within a React monorepo, but also on the backend in a Ruby on rails monorepo structured using Domain-Driven Design.
+<span style="font-weight: 700; font-size: 1.1rem">Tech stack:</span>
 
-  **Tech stack:**<br>
-  <img src="https://img.shields.io/badge/-007acc?style=plastic&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-222222?style=plastic&logo=react"/>
-  <img src="https://img.shields.io/badge/-D91404?style=plastic&logo=ruby"/>
-  <img src="https://img.shields.io/badge/-CC0000?style=plastic&logo=rubyonrails"/>
-  <img src="https://img.shields.io/badge/-black?style=plastic&logo=github-actions"/>
-  <img src="https://img.shields.io/badge/-336791?style=plastic&logo=postgresql&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/-E5F2FC?style=plastic&logo=docker"/> -->
-  <br>
-  <br>
+<div style="display: flex; gap: 10px; justify-content: start; padding-left: 50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" height="25" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" height="25" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="25" />
+</div>
+<br>
+<br>
 
-- **EasyBiz (🏗️ rebuilt in-progress)**
+<span style="font-weight: 700; font-size: 1.1rem">EasyBiz (🏗️ rebuilt in-progress)</span>
 
-  EasyBiz is a web application that simplifies invoicing, client management, and quotation handling for small businesses. It allows users to create, send, and track invoices, manage customer data, and seamlessly convert quotations into invoices. <br>
-  Initially built with Node.js and Express on the backend, I chose to rebuilt it using AdonisJS to explore this full-featured framework. The frontend is developed with React, and the application ensures compliance with legal accounting standards.
-  You'll soon be able to follow the progress on my public repository.
+EasyBiz is a web application that simplifies invoicing, client management, and quotation handling for small businesses. It allows users to create, send, and track invoices, manage customer data, and seamlessly convert quotations into invoices.
 
-  **Tech stack:**<br>
-  <img src="https://img.shields.io/badge/-007acc?style=plastic&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-222222?style=plastic&logo=react"/>
-  <img src="https://img.shields.io/badge/-333333?style=plastic&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-E5F2FC?style=plastic&logo=docker"/>
-  <img src="https://img.shields.io/badge/-black?style=plastic&logo=github-actions"/>
-  <img src="https://img.shields.io/badge/-336791?style=plastic&logo=postgresql&logoColor=white"/>
+Initially built with Node.js and Express on the backend, I chose to rebuilt it using AdonisJS to explore this full-featured framework. The frontend is developed with React, and the application ensures compliance with legal accounting standards.
+You'll soon be able to follow the progress on my public repository.
+<br>
+<br>
 
-## 🏆 Certifications
+<h2 align="left">🏆 Certifications</h2>
 
 - Bachelor's degree equivalent: Qualified
 - TOEIC listening & reading: 820 points (B2 level)
 - Opquast Web Quality Certification: Advanced level
 
-## 💡 What I Bring to the Table
+<h2 align="left">💡 What I Bring to the Table</h2>
 
 - Eagerness to take on new challenges
 - Strong adaptability and fast learning capabilities
 - Valuable interpersonal skills and business acumen from a previous career in sales
 
-## 🔍 Looking For
+<h2 align="left">🔍 Looking For</h2>
 
 - I am seeking a position in the tech industry, ideally within a company that develops and maintains its own business solutions.
 
-## 📫 How to Reach Me
+<h2 align="left">📫 How to Reach Me</h2>
 
 - You can send me an email on :
   yoann.ar.pro@gmail.com
@@ -84,21 +90,20 @@ I am deeply committed to everything I undertake
 - Otherwise, you can also visit my
   [linkedIn page](https://www.linkedin.com/in/yoann-auroy/)
 
-## 🌱 Always Learning
+<h2 align="left">🌱 Always Learning</h2>
 
 - I’m constantly exploring new technologies and best practices in modern web development.
 
-## 🌍 Languages
+<h2 align="left">🌍 Languages</h2>
 
-- 🇬🇧 : Reading and writing, (B1 level)
-- 🇪🇸 : Reading and speaking, (B2 level)
+- 🇬🇧 : Reading and writing, (B1)
+- 🇪🇸 : Reading and speaking, (B2)
 - 🇫🇷 : Reading, writing, speaking, (native)
 
-## 👀 My hobbies
+<h2 align="left">👀 My hobbies</h2>
 
 - 🏎️ Formula One & WEC
 - 🚴‍♂️ Riding my bike
 - 🏔️ Hiking
 - 🥩 Bbq's with friends & family
 - ♠️ Poker
-- 👨‍💻 coding apps
