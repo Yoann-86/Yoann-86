@@ -6,11 +6,15 @@
 <h3 align="center">I'm a software engineer, I work mainly with Typescript in frontend but I'm also able to do backend.</h3>
 
 <h2 align="center">Connect with me:</h2>
-<div style="display: flex; flex-direction: column; gap: 10px justify-content: center; align-items: center">
-<a href="https://linkedin.com/in/yoann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="yoann" height="30" width="40" /></a>
-<p style="padding-top: 10px; font-weight: 700">OR</p>
-<a href="mailto:yoann.ar.pro@gmail.com" style="font-size: 1.5rem; font-weight: 700">✍️ yoann.ar.pro@gmail.com</a>
-</div>
+
+<p align="center">
+<a href="https://linkedin.com/in/yoann" target="blank"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="yoann" height="30" width="40"/></a>
+</p>
+<p align="center">OR</p>
+<p align="center">
+<a href="mailto:yoann.ar.pro@gmail.com" align="center"><font size="4">✍️ yoann.ar.pro@gmail.com</font></a>
+</p>
+
 <h2 align="left">🚀 About Me</h2>
 
 I’m 38 years old and currently enrolled at **@matera-tech** as a front-end developer. I have more than 10 years working experience in both domains, and I do my better everyday to be a good developer.
@@ -20,20 +24,15 @@ I have a passion for coding and what can be accomplished with it. I enjoy discov
 I am deeply committed to everything I undertake
 
 <h2 align="left">🛠 Tech stack</h2>
-<div style="display: flex; flex-direction: column; gap: 20px">
-<div style="display: flex; flex-direction: column;">
-<p>Personnal stack</p>
-<div style="display: flex; gap: 20px; justify-content: start; padding-left: 50px">
+
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" />  
-</div>
-</div>
-
-</div>
+</p>
 
 <h2 align="left">📚 Currently Focus</h2>
 
