@@ -23,13 +23,13 @@ I have a passion for coding and what can be accomplished with it. I enjoy discov
 <br>
 I am deeply committed to everything I undertake -->
 
-<h2 align="left">🛠 Tech stack</h2>
+<h2 align="center">🛠 Tech stack</h2>
 
 <p>I specialize in full-stack development with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="12" /> TypeScript, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="12" /> React, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="12" /> PostgreSQL, while also building robust backend APIs with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" height="12" /> Ruby on Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="12" /> Node.js.</p>
 
 <p>On the DevOps side, I leverage <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="12" /> Docker and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" height="12" /> GitHub Actions to streamline deployment and automation workflows.</p>
 
-<h2 align="left">📚 Currently Focus</h2>
+<h2 align="center">📚 Currently Focus</h2>
 
 <span style="font-weight: bold; font-size: 18px">My role @Matera: [squad probiotics]</span>
 
