@@ -31,7 +31,7 @@ I am deeply committed to everything I undertake -->
 
 <h2 align="center">📚 Currently Focus</h2>
 
-<span style="font-weight: bold; font-size: 18px">My role @Matera: [squad probiotics]</span>
+<p style="font-size: 18px">My role <b>@Matera:</b> [squad probiotics]</p>
 
 Matera is a company that helps owners manage their co-ownership and rental investments since 2017.
 
