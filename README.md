@@ -31,7 +31,7 @@ I am deeply committed to everything I undertake -->
 
 <h2 align="left">📚 Currently Focus</h2>
 
-<span style="font-weight: bold; font-size: 18px">My role @Matera:</span>
+<span style="font-weight: bold; font-size: 18px">My role @Matera: [squad probiotics]</span>
 
 Matera is a company that helps owners manage their co-ownership and rental investments since 2017.
 
@@ -56,10 +56,10 @@ You'll soon be able to follow the progress on my public repository.
 
 <h2 align="center">🏆 Certifications</h2>
 
-<p align="center">Master’s degree fullstack developer: In progress</p>
-<p align="center">Bachelor's degree fullstack developer: Qualified</p>
-<p align="center">TOEIC listening & reading: 820 points (B2 level)</p>
-<p align="center">Opquast Web Quality Certification: Advanced level</p>
+<p>🎓 Master's degree in Full-Stack Development: In progress</p>
+<p>🎓 Bachelor's degree in Full-Stack Development: Completed</p>
+<p>🇬🇧 TOEIC Listening & Reading: 820 points (B2 level)</p>
+<p>🌐 Opquast Web Quality Certification: Advanced level</p>
 
 <h2 align="center">🌍 Languages</h2>
 <ul>
