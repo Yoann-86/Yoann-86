@@ -3,7 +3,7 @@
 </header>
 <h1 align="center">Hi there 👋, I'm Yoann</h1>
 
-<h2 align="center">I'm a french software engineer, I work mainly with Typescript & React in frontend but I'm also able to do backend.</h2>
+<h2 align="center">I'm a french software engineer, I work mainly with Typescript & React.</h2>
 
 <p align="center"><font size="4">Connect with me:</font></p>
 
@@ -25,12 +25,9 @@ I am deeply committed to everything I undertake -->
 
 <h2 align="left">🛠 Tech stack</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" />
+<p>I specialize in full-stack development with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="12" /> TypeScript, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="12" /> React, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="12" /> PostgreSQL, while also building robust backend APIs with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" height="12" /> Ruby on Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="12" /> Node.js.</p>
+
+<p>On the DevOps side, I leverage <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="12" /> Docker and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" height="12" /> GitHub Actions to streamline deployment and automation workflows.</p>
 
 <h2 align="left">📚 Currently Focus</h2>
 
@@ -40,16 +37,14 @@ Matera is a company that helps owners manage their co-ownership and rental inves
 
 Matera supports more than 10,000 co-ownerships in France and Germany. Matera also launched a rental management offering complement its services and provide a complete ecosystem for owners. The company now supports more than 2,000 rental properties.
 
-My role at Matera focuses on the Pro offer. I'm currently working on the milestones feature, mainly on the frontend within a React monorepo, but also on the backend in a Ruby on rails monorepo structured using Domain-Driven Design.
-
 <p style="font-weight: bold">Matera tech stack:</p>
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" height="25" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" height="25" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="25" />
-
+</p>
 <br>
 
 <span style="font-weight: bold; font-size: 18px">EasyBiz (🏗️ rebuilt in-progress)</span>
@@ -58,14 +53,6 @@ EasyBiz is a web application that simplifies invoicing, client management, and q
 
 Initially built with Node.js and Express on the backend, I chose to rebuilt it using Ruby on Rails to explore this full-featured framework and improve my skills with it. The frontend is developed with React, and the application ensures compliance with legal accounting standards.
 You'll soon be able to follow the progress on my public repository.
-
-<p style="font-weight: bold">Easybiz tech stack:</p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" height="25" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" height="25" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="25" />
 
 <h2 align="center">🏆 Certifications</h2>
 
